@@ -1,0 +1,12 @@
+steps to run the program:
+open this folder in eclipse IDE and to execute the program 
+since its maven projects all the dependencies are included in pom.xml file 
+and this maven project is inegreted with testng so all the program will be executed one by one by runing "testng.xml" file
+after running that file execution will start and you will see the output in console window
+
+2nd method:to run the program directly from command prompt:-
+1)Download Maven and add ‘MAVEN_HOME’ and ‘M2_HOME’ Environment Variables
+2)Include ‘maven/bin’ directory in ‘PATH’ variable
+3)Verify maven in console by typing "mvn -version"
+4)after this steps go to the target directory using cd <name> 
+5)to execute the program use "mvn test"
