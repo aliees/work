@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="10719" started-at="2020-08-27T18:56:58 IST" finished-at="2020-08-27T18:57:09 IST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="5741" started-at="2020-08-27T18:56:58 IST" finished-at="2020-08-27T18:57:04 IST">
+      <class name="work.assignment.Market_mutual_funds">
+        <test-method status="PASS" signature="mutual_funds()[pri:0, instance:work.assignment.Market_mutual_funds@9a7504c]" name="mutual_funds" duration-ms="5674" started-at="2020-08-27T18:56:58 IST" finished-at="2020-08-27T18:57:04 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- mutual_funds -->
+      </class> <!-- work.assignment.Market_mutual_funds -->
+    </test> <!-- Test -->
+    <test name="snd" duration-ms="2278" started-at="2020-08-27T18:57:04 IST" finished-at="2020-08-27T18:57:06 IST">
+      <class name="work.assignment.Market_most_watched">
+        <test-method status="PASS" signature="most_watched()[pri:0, instance:work.assignment.Market_most_watched@63440df3]" name="most_watched" duration-ms="2271" started-at="2020-08-27T18:57:04 IST" finished-at="2020-08-27T18:57:06 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- most_watched -->
+      </class> <!-- work.assignment.Market_most_watched -->
+    </test> <!-- snd -->
+    <test name="thrd" duration-ms="2580" started-at="2020-08-27T18:57:06 IST" finished-at="2020-08-27T18:57:09 IST">
+      <class name="work.assignment.Market_top_gainers">
+        <test-method status="PASS" signature="top_gainers()[pri:0, instance:work.assignment.Market_top_gainers@eafc191]" name="top_gainers" duration-ms="2576" started-at="2020-08-27T18:57:06 IST" finished-at="2020-08-27T18:57:09 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- top_gainers -->
+      </class> <!-- work.assignment.Market_top_gainers -->
+    </test> <!-- thrd -->
+  </suite> <!-- Suite -->
+</testng-results>

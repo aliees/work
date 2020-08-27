@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test thread-count="5" name="Test">
+    <classes>
+      <class name="work.assignment.Market_mutual_funds"/>
+    
+    </classes>
+    
+  </test> <!-- Test -->
+  
+  <test name="snd">
+  <classes>
+  <class name="work.assignment.Market_most_watched"/>
+  </classes>
+  </test>
+  <test name="thrd">
+  <classes>
+  <class name="work.assignment.Market_top_gainers"/>
+  </classes>
+  </test>
+</suite> <!-- Suite -->
+ 
+      
