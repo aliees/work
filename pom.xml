@@ -33,6 +33,13 @@
   
 
   <dependencies>
+  <!-- https://mvnrepository.com/artifact/org.json/json -->
+<dependency>
+    <groupId>org.json</groupId>
+    <artifactId>json</artifactId>
+    <version>20200518</version>
+</dependency>
+  
  <!-- https://mvnrepository.com/artifact/io.rest-assured/scala-support -->
 <dependency>
     <groupId>io.rest-assured</groupId>
