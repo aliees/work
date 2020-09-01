@@ -5,7 +5,6 @@
     <classes>
       <class name="work.assignment.Market_mutual_funds">
         <methods>
-          <include name="Test_case2"/>
           <include name="mutual_funds"/>
         </methods>
       </class> <!-- work.assignment.Market_mutual_funds -->

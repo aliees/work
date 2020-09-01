@@ -5,28 +5,9 @@
     <classes>
       <class name="work.assignment.Market_mutual_funds">
         <methods>
-          <include name="Test_case2"/>
           <include name="mutual_funds"/>
         </methods>
       </class> <!-- work.assignment.Market_mutual_funds -->
     </classes>
   </test> <!-- Test(failed) -->
-  <test thread-count="5" name="snd(failed)">
-    <classes>
-      <class name="work.assignment.Market_most_watched">
-        <methods>
-          <include name="most_watched3"/>
-        </methods>
-      </class> <!-- work.assignment.Market_most_watched -->
-    </classes>
-  </test> <!-- snd(failed) -->
-  <test thread-count="5" name="thrd(failed)">
-    <classes>
-      <class name="work.assignment.Market_top_gainers">
-        <methods>
-          <include name="test_case2"/>
-        </methods>
-      </class> <!-- work.assignment.Market_top_gainers -->
-    </classes>
-  </test> <!-- thrd(failed) -->
 </suite> <!-- Failed suite [Suite] -->
